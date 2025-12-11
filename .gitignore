@@ -1,0 +1,21 @@
+# Secrets (NEVER COMMIT THESE)
+.env
+config.json
+
+# Python Junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+.venv/
+
+# Database
+*.sqlite
+*.db
+
+# OS Junk
+.DS_Store
+Thumbs.db
